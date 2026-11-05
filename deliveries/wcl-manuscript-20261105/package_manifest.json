@@ -1,0 +1,28 @@
+{
+  "delivery_date": "2026-11-05",
+  "description": "A-C Chinese revised manuscript, figures, plotting data and review notes, with separately labelled later M-Cal supplement.",
+  "main_text_includes_MCal_results": false,
+  "includes_full_Monte_Carlo_NPZ_cache": false,
+  "files": [
+    {
+      "filename": "wcl_manuscript_complete.zip",
+      "bytes": 3191528,
+      "sha256": "aef58dbbd422c8f31065fc2a41d027b4974e5d36c34d41f7333f8be283df1514"
+    },
+    {
+      "filename": "wcl_latex_source.zip",
+      "bytes": 211684,
+      "sha256": "d4ce2a0bc12482df4923fe25c9e1b83fc24f344203e5d3f354a6df73ecc19787"
+    },
+    {
+      "filename": "wcl_manuscript.pdf",
+      "bytes": 444025,
+      "sha256": "6e08abd256fe8e6a45e6340604e483e4fcb01cb7719200eae68698822f1ab7e2"
+    },
+    {
+      "filename": "DOWNLOAD_README.txt",
+      "bytes": 1248,
+      "sha256": "ac4797dfb93c6cb44b3862398e09b862d51272ae104baf354a4b43fe100e451e"
+    }
+  ]
+}
